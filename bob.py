@@ -1,5 +1,5 @@
 def response(message):
-""" Lackadasical teenager response simulator. """
+    """ Lackadasical teenager response simulator. """
     message = message.strip()
     
     if not message:
